@@ -1,5 +1,5 @@
-import urllib.request/home/develop/Develop/AI
 import re
+import urllib.request
 
 url = ("https://raw.githubusercontent.com/rasbt/"
        "LLMs-from-scratch/main/ch02/01_main-chapter-code/"
